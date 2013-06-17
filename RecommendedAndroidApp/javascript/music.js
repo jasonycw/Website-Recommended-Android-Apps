@@ -1,0 +1,4 @@
+appsList.push(new applicationCard("Neutron Player ","https://lh3.ggpht.com/OCOEONGF6_VbjErV8Ii7dogZgtM1dCwG1rMBmPODIDe-FPUEroE8PjZkktItDV2D4303=w124","com.neutroncode.mpeval"));
+appsList.push(new applicationCard("Play Music","https://lh5.ggpht.com/8TgQiluu48_ti211EJIdKDiF3wJmEIeTiGT913KjLXaamEnTXt-GqWudgG593-4QODM=w124","com.google.android.music"));
+appsList.push(new applicationCard("Poweramp","https://lh5.ggpht.com/Y_zwLIrpypRSsqSjOaxFzPY-Pq5wMFoZX6BKXRKTovAvfLJwP52xNrDov33c0yNkYXAx=w124","com.maxmpz.audioplayer"));
+appsList.push(new applicationCard("Spotify","https://lh3.ggpht.com/eeTyBW3zE2RE63KcXwHdaC1eM6oL70vArWu_JAQ-uuDBujPvB3XUocy2nXMj42eXG0nd=w124","com.spotify.mobile.android.ui"));

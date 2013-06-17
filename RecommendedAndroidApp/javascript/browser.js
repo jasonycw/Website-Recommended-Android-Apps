@@ -1,0 +1,5 @@
+appsList.push(new applicationCard("Lightning","https://lh3.ggpht.com/HLSuHvg80_HMmgZ8GkmxMkHvovFu0_QcBqK-omS-JLGe8s-ChPQPYZZFXBRHEtHoQZQ=w124","acr.browser.barebones"));
+appsList.push(new applicationCard("Chrome Beta","https://lh4.ggpht.com/lHGl4CMfCxksW7ZHWW2pQ8f6XZy98G4XLp1kqbwYtbUGENBk99qHR0X8mCDAMJz_J4wG=w124","com.chrome.beta"));
+appsList.push(new applicationCard("Chrome","https://lh3.ggpht.com/7O3H3V0fEBumwJlqDLD03t1fmwl8fH9YoBsPwB2UQ_aiBilM7OAOe2gkFB3wrojJqbM=w124","com.android.chrome"));
+appsList.push(new applicationCard("Naked Browser","https://lh5.ggpht.com/ys5XFSyv-Ml74bHSloDqBuykgHHvAhtGmtU5JQUBtfZ_CYFjGMpDJaTTi0GiGgnBX0E=w124","com.fevdev.nakedbrowser"));
+appsList.push(new applicationCard("Firefox","https://lh6.ggpht.com/S2KdYrkMahA0o2V0izK42J0rC0v6WJpbpTirrI_bjuySLLYNqCtn_yjF7k2GnW9H575H=w124","org.mozilla.firefox"));

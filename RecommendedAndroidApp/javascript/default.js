@@ -1,0 +1,7 @@
+appsList.push(new applicationCard("Lightning","https://lh3.ggpht.com/HLSuHvg80_HMmgZ8GkmxMkHvovFu0_QcBqK-omS-JLGe8s-ChPQPYZZFXBRHEtHoQZQ=w124","acr.browser.barebones"));
+appsList.push(new applicationCard("Nova Launcher","https://lh6.ggpht.com/PBjhDgWOG_1eyJpjuvOO4zMRPRF42L-CcwyyZ1nSbRJnGWGyG-yDw_vAb5wHkYtI0eA=w124","com.teslacoilsw.launcher"));
+appsList.push(new applicationCard("Hangouts","https://lh6.ggpht.com/Vm4owhN-u-2lcqvkV8dDxNCtYBg6CEBwYI2rH7L3kidCMpJI0bfeSZ8fCEY20-H4D32E=w124","com.google.android.talk"));
+appsList.push(new applicationCard("MX Player","https://lh3.ggpht.com/7jbZtQUat0RktJooXmgBetvqUtK25PvHVw5G2D-zujpoebb4JT09Yu1o0WlpjbaJ0eQ=w124","com.mxtech.videoplayer.ad"));
+appsList.push(new applicationCard("ES File Explorer","https://lh5.ggpht.com/P31CiAbF5UMC1wbJxv2sPT4tSLLqfqUZPp8N0ATEaA0ZeMxXv_NjVDiswVKjeUUSS2w=w124","com.estrongs.android.pop"));
+appsList.push(new applicationCard("Play Music","https://lh5.ggpht.com/8TgQiluu48_ti211EJIdKDiF3wJmEIeTiGT913KjLXaamEnTXt-GqWudgG593-4QODM=w124","com.google.android.music"));
+appsList.push(new applicationCard("Flipboard","https://lh3.ggpht.com/NGiPSroHP0WbGjaaTB4Ep9h8P4g_gR9RSEmC_U9eaDw7r57xWP4cIYyJzdlM-_isHZ4=w124","flipboard.app"));

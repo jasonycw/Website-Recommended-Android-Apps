@@ -1,0 +1,2 @@
+appsList.push(new applicationCard("Nova Launcher","https://lh6.ggpht.com/PBjhDgWOG_1eyJpjuvOO4zMRPRF42L-CcwyyZ1nSbRJnGWGyG-yDw_vAb5wHkYtI0eA=w124","com.teslacoilsw.launcher"));
+appsList.push(new applicationCard("Apex Launcher","https://lh3.ggpht.com/nJJHgG3QVnVQ14XY55GpIpPTSSsyludTp9acI4DZDLeOI_jrU0QGINeuL22NM4DLhzo=w124","com.anddoes.launcher"));

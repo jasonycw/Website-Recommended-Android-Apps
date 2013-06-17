@@ -1,0 +1,6 @@
+appsList.push(new applicationCard("Google Reader","https://lh3.ggpht.com/ptFBNBLpBeMy2yO_Dejd00PTuqtdBrCiuyjuvqt0-jrWeYz33Osv6JYIrNw9v4K8KXA=w124","com.google.android.apps.reader"));
+appsList.push(new applicationCard("Feedly","https://lh4.ggpht.com/rkouDgWbT3WNztDRa5QvnN8SatDK3zeHHwOMHZbiu2Vlf3-9hLlmH89W9gJpGEtxo3U=w124","com.devhd.feedly"));
+appsList.push(new applicationCard("Flipboard","https://lh3.ggpht.com/NGiPSroHP0WbGjaaTB4Ep9h8P4g_gR9RSEmC_U9eaDw7r57xWP4cIYyJzdlM-_isHZ4=w124","flipboard.app"));
+appsList.push(new applicationCard("Pocket","https://lh3.ggpht.com/LUBbdER8FLcwJzRtZv1lnHNf-s702LWlQa6hc3hJMXzHDdXSBss3-w-X5mKKAZjxKQ=w124","com.ideashower.readitlater.pro"));
+appsList.push(new applicationCard("gReader","https://lh5.ggpht.com/7FvtdaMKtz3TVzdJUuzft_SiRQ6-v_M5onbHikeJcQUE5CMkZP1Y0KofEYKzO9rzHeHn=w124","com.noinnion.android.greader.reader"));
+appsList.push(new applicationCard("Pulse News","https://lh5.ggpht.com/m9q4MQoCc_900oE1k02jlhe1lzFjjQ6-qBrj0YNjzy1PY6IVx7v99OwFYotSxE66EWU=w124","com.alphonso.pulse"));
