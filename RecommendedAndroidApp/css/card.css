@@ -1,4 +1,9 @@
 @import url(general.css);
+
+html,body{
+	min-height:0;!important
+	height:auto;!important
+}
 section{
 	width:98%;
 	height:95%;
