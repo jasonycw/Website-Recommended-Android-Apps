@@ -2,7 +2,7 @@
 section{
 	width:98%;
 	height:95%;
-	padding:10px 10px 10px 10px;
+	margin-left:10px;
 }
 #applicationCardContainer{
 	display:block;
